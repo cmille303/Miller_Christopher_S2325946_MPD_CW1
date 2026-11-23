@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#1B3A5C</color>
+    <color name="panel_background">#EEF2F6</color>
+    <color name="text_dark">#1F2933</color>
+    <color name="text_grey">#5F6B7A</color>
+    <color name="border">#9AA5B1</color>
+
+    <color name="tab_active">#1B3A5C</color>
+    <color name="tab_inactive">#DDE3EA</color>
+
+    <color name="item_normal">#FFFFFF</color>
+    <color name="item_selected">#D6E6F7</color>
+
+    <color name="delay_none">#2E7D32</color>
+    <color name="delay_normal">#E67E00</color>
+    <color name="delay_long">#C62828</color>
+    <color name="delay_very_long">#6A1B9A</color>
+    <color name="badge_incident">#37474F</color>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Traffic App</string>
+
+    <!-- main screen -->
+    <string name="tab_list">List</string>
+    <string name="tab_details">Details</string>
+    <string name="tab_map">Map</string>
+
+    <!-- search panel -->
+    <string name="show_all">All</string>
+    <string name="show_incidents">Incidents</string>
+    <string name="show_roadworks">Roadworks</string>
+    <string name="show_label">Show</string>
+    <string name="road_hint">Road name, e.g. M8</string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="within">Within</string>
+    <string name="of_place">of</string>
+
+    <!-- list -->
+    <string name="empty_list">No situations to show.\nChange or reset the search, or use Refresh.</string>
+    <string name="acknowledgement">Contains Traffic Scotland data</string>
+    <string name="icon_description">Icon for the type of situation</string>
+
+    <!-- details -->
+    <string name="no_selection">Select a situation from the list or from the map to see its details here.</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="heading_where">WHERE</string>
+    <string name="heading_when">WHEN</string>
+    <string name="heading_impact">IMPACT</string>
+    <string name="heading_more">MORE INFORMATION</string>
+
+    <!-- map -->
+    <string name="satellite">Satellite</string>
+
+    <!-- options menu -->
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_update_hour">Auto-update every hour</string>
+    <string name="menu_update_minute">Auto-update every minute (demo)</string>
+    <string name="menu_about">About</string>
+    <string name="about_text">Road traffic incidents and roadworks on the Scottish trunk road and motorway network.\n\nContains Traffic Scotland data (DATEX II feeds: unplanned events and current roadworks), updated when the app starts and then every hour.\n\nRoadworks are colour coded by the delays they cause:\ngreen = no delays reported\namber = delays\nred = long delays\npurple = very long delays\n\nMaps: Google Maps SDK for Android.\nIcons: Font Awesome Free 7.3.1 (fontawesome.com), licensed CC BY 4.0. Recoloured and placed on coloured circles for this app.</string>
+</resources>
